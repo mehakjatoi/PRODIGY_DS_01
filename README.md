@@ -13,7 +13,10 @@ This project involved using Matplotlib and Pandas to analyze and visualize popul
 
 **Data Visualization:** Utilized Matplotlib to create a variety of visualizations including histograms and bar charts. These visualizations were aimed at understanding population distributions and trends across different regions and countries.
 
-**Technologies Used**
+**Technologies Used**:
+
 Python
+
 Pandas
+
 Matplotlib
